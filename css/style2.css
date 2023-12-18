@@ -225,7 +225,7 @@
   
   .cont1 .persons .person3 .text3{
 	  position:relative ;
-	  left:-818px;
+	  left:-1100px;
 	  top:148px;
 	  font-family:'Krub Bold';
 	  font-size: 20px;
@@ -265,7 +265,7 @@
   
   .cont1 .persons .person3 .kav3{
 	  position:relative ;
-	  left:-1175px;
+	  left:-1480px;
 	  top:237px;
 		color: rgb(170, 132, 249);
 	}
@@ -273,7 +273,7 @@
 
 	.cont1 .persons .person3 .kav3_1{
 		position:relative ;
-		right: 1242px;
+		right: 1547px;
 		top:330px;
 		  color: rgb(170, 132, 249);
 	  }
