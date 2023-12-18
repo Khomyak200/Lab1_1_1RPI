@@ -1,0 +1,191 @@
+.page3{
+    background-color: rgba(24, 24, 24, 1);
+}
+
+.square_dot {
+    display: inline-block;      
+    width: 12px;
+    height: 12px;
+    background-color: white;
+}
+
+
+
+.edition {
+    display: inline-block;
+    font: 700 17px 'Krub', sans-serif;
+    text-align: justify;
+    text-transform: uppercase;
+    margin-left: 15px;
+    margin-top: 1px;
+}
+
+.edition:first-child {
+    letter-spacing: 4px;
+}
+
+.edition :last-child {
+    display: block;
+    width: 86px;
+    font-size: 28px;
+}
+
+
+.page3 {
+    padding: 128px 50px 0;
+}
+
+.header3 {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Krub', sans-serif;
+    color: white;
+}
+
+.header3 h2 {
+    font-size: 38px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+}
+
+.header3 h2 span {
+    font-size: 118px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.find_right {
+    align-self: flex-end;
+    margin-bottom: 15px;
+}
+
+.find_square {
+    vertical-align: top;
+    display: inline-block;      
+    width: 12px;
+    height: 12px;
+    background-color: white;
+}
+
+
+.find {
+    padding: 126px 0 0 0;
+}
+
+.find_block {
+    width: 293px;
+    height: 378px;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    margin-right: 43px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.find_block .number {
+    position: absolute;
+    padding: 10px 13px 10px 7px;
+
+    font-family: 'Krub', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 21px;
+    font-style: normal;
+    color: #181818;
+}
+
+.find_block .header {
+    position: absolute;
+    padding: 38px 60px 0 60px;
+    font-family: 'Krub', sans-serif;
+    font-size: 33px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    color: black;
+}
+
+.find_block .header span {
+    color: rgb(164, 96, 249);
+}
+
+.find_block .line {
+    position: absolute;
+    padding: 85px 117px 0 117px;
+    color:red;
+}
+
+.find_block .text {
+    position: absolute;
+    width: 208px;
+    height: 93px;
+    padding: 112px 43px 0 43px;
+
+    font-family: 'Krub', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    line-height: 1.7;
+    color: #F2F2F2;
+}
+
+.find_block .text .lasttxt {
+    text-align: center;
+}
+
+.find_block .last_text {
+    position: absolute;
+    width: 128px;
+    height: 50px;
+    margin: 242px 83px 0 83px;
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(164, 96, 249);
+}
+
+.find_block .last_text a {
+    text-decoration: none;
+    color: white;
+}
+
+.left_corner {
+    width: 49px;
+    height: 49px;
+    background-color: white;
+}
+
+.find_block:last-child {
+    margin-right: 0;
+}
+
+.find_more {
+    padding: 76px 0 9px 514px;
+    font-family: 'Krub', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    color: white;
+}
+
+.find_more span {
+    margin-right: 57px;
+}
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+.about-us {
+    height: 1030px;
+    padding: 50px 0 0 0;
+    flex-direction: column;
+    background-color: rgb(24,24,24,1);
+}
+
+.about-us .img1 {
+    position: absolute;
+    margin: 9px 1250px 0 0
+}
+
+.about-us .img2 {
+    position: absolute;
+    margin: 0 1283px 0 132px
+}
+
+.about-us .img3 {
+    position: absolute;
+    margin: 82px 191px 0 1224px;
+}
+
+.about-us .img4 {
+    position: absolute;
+    margin: 802px 107px 0 1308px;
+}
+
+.about-us .img5 {
+    position: absolute;
+    margin: 794px 819px 0 596px;
+}
+
+.about-us .img6 {
+    position: absolute;
+    margin: 815px 0 0 1241px;
+}
+
+.about-us .img7 {
+    position: absolute;
+    margin: 225px 180px 0 862px;
+}
+
+.about-us .img8 {
+    position: absolute;
+    margin: 89px 137px 0 820px;
+}
+
+.about-us-text {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 224px;
+    text-align: left;
+    justify-content: center;
+    margin-left: 184px;
+}
+
+.text1 {
+    display: flex;
+    margin-bottom: 20px;
+    font-family: "Krub", serif;
+    font-size: 63px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+}
+
+.text1 span {
+    letter-spacing: 3px;
+}
+
+.text2 {
+    width: 370px;
+    height: 65px;
+    margin-bottom: 82px;
+    line-height: 1.9;
+    font-family: "Krub", serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    text-indent: 1px;
+    color: #FFFFFF;
+}
+
+.grid {
+    column-count: 2;
+    width: 90%;
+    /*left: 15px;*/
+    /*margin-left: 5px;*/
+    font-family: "Krub", serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #FFFFFF;
+    list-style-image: url("img/Shape 1.png");
+}
+
+.grid li {
+    text-indent: -2px;
+    margin-bottom: 50px;
+}
+
+.grid li:nth-child(2n) {
+    margin-bottom: 70px;
+}
+
+.text3 {
+    font-family: "Krub", serif;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.text4 {
+    width: 128px;
+    height: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(164, 96, 249);
+}
+
+.text4 a {
+    text-decoration: none;
+    color: white;
+}

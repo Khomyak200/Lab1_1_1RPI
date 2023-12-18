@@ -1,0 +1,313 @@
+.container{
+	background:black;
+}
+
+.cont1{
+	flex-direction: column;
+	display: flex;
+	margin-left: 0px;
+	background: black;
+	width: 1440px;
+	height: 760px;
+}
+
+.cont1 .persons {
+	background:black;
+	width: 1148.219px;
+		top:100px;
+		display: flex;
+		flex-direction: row;
+		position: relative;
+		left: 145.89px;
+		justify-content: space-between;
+		border-left: 200px;
+
+	}
+
+.cont1 .first{
+	margin-bottom: 20xp;
+}
+
+.cont1 .first .what {
+	font-family:'Krub Bold';
+	font-size: 97px;
+	text-align: center;
+	color:white;
+}
+
+.cont1 .first .users {
+	font-family: 'Krub Regular';
+	margin-top: -20px;
+	left:581px;
+	top:-20.5px;
+	position: relative;
+	font-size: 42px;
+	color: rgb(170, 132, 249);
+	margin-bottom: 50px;
+}
+
+.cont1 .first .users span1{
+	margin-right:4px;
+}
+
+.cont1 .first .users span2{
+	margin-left: 4px;
+}
+
+.cont1 .first .users span3{
+	margin-left: 5px;
+}
+
+ .cont1 .persons .person1 .image1{
+	position: relative;
+	left:42px;
+	bottom: 50px;
+	border-radius: 100px; /* Радиус скругления */
+    border: 3px solid rgb(170, 132, 249); /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+	}
+
+.cont1 .persons .person1{
+  display:flex;
+  }
+
+.cont1 .persons .person1 .text1{
+	position:relative ;
+	left:-112px;
+	top:148px;
+	font-family:'Krub Bold';
+	font-size: 20px;
+	overflow: visible;
+  	color: rgb(163, 163, 163);
+  }
+
+.cont1 .persons .person1 .stars1{
+	position:relative ;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	left: -253px;
+	top:203px;
+}
+
+  .cont1 .persons .person1 .stars1 i{
+	color: rgb(170, 132, 249);
+	margin-right: 10px;
+  }
+
+  .cont1 .persons .person1 .stars1 i2{
+	color: rgb(170, 132, 249);
+	margin-right: 13px;
+  }
+
+  .cont1 .persons .person1 .stars1 i1{
+	color: rgb(170, 132, 249);
+	margin-right: 13px;
+  }
+
+  .cont1 .persons .person1 .stars1 i3{
+	color: rgb(163, 163, 163);
+	margin-right: 13px;
+  }
+
+.cont1 .persons .person1 .kav1{
+	position:relative ;
+	left:-474px;
+	top:237px;
+  	color: rgb(170, 132, 249);
+  }
+
+.cont1 .persons .person1 .text1_1{
+	position:relative ;
+	left:-469px;
+	top:243px;
+	width: 300px;
+	font-family:'Krub Semibold';
+	font-size: 14px;
+  	color: rgb(163, 163, 163);
+  }
+
+  .cont1 .persons .person1 .text1_1 span{
+	margin-top: 100px;
+}
+ 
+  .cont1 .persons .person1 .kav1_1{
+	position:relative ;
+	left:-542px;
+	top:330px;
+  	color: rgb(170, 132, 249);
+  }
+  
+  .cont1 .persons .person2{
+	display:flex;
+	}
+  
+  .cont1 .persons .person2 .text2{
+	  position:relative ;
+	  left:-571px;
+	  top:148px;
+	  font-family:'Krub Bold';
+	  font-size: 20px;
+	  overflow: visible;
+		color: rgb(163, 163, 163);
+	}
+  
+  .cont1 .persons .person2 .stars2{
+	  position:relative ;
+	  display: flex;
+	  flex-direction: row;
+	  justify-content: space-between;
+	  left: -594px;
+	  top:204px;
+	}
+  
+	.cont1 .persons .person2 .stars2 i{
+		color: rgb(170, 132, 249);
+	  margin-right: 10px;
+	}
+  
+	.cont1 .persons .person2 .stars2 i2{
+		color: rgb(170, 132, 249);
+	  margin-right: 13px;
+	}
+  
+	.cont1 .persons .person2 .stars2 i1{
+		color: rgb(170, 132, 249);	
+	  margin-right: 13px;
+	}
+  
+	.cont1 .persons .person2 .stars2 i3{
+		color: rgb(163, 163, 163);
+		margin-right: 13px;
+	  }
+
+  .cont1 .persons .person2 .kav2{
+	  position:relative ;
+	  left:-816px;
+	  top:237px;
+		color: rgb(170, 132, 249);
+	}
+  
+  .cont1 .persons .person2 .text2_1{
+	  position:relative ;
+	  left:-750px;
+	  top:231px;
+	  width: 300px;
+	  font-family:'Krub Semibold';
+	  font-size: 14px;
+		color: rgb(163, 163, 163);
+	}
+
+	.cont1 .persons .person2 .kav2_1{
+		position:relative ;
+		left:-885px;
+		top:330px;
+		  color: rgb(170, 132, 249);
+	  }
+
+  .cont1 .persons .person2 .text2_1 span{
+	  margin-bottom: 20px;
+  }
+
+  .cont1 .persons .person2 .image2{
+	position: relative;
+	left:-307px;
+	bottom:50px;
+	border-radius: 100px; /* Радиус скругления */
+    border: 3px solid rgb(170, 132, 249); /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+	}
+
+.cont1 .persons .person3{
+	display:flex;
+	}
+  
+  .cont1 .persons .person3 .text3{
+	  position:relative ;
+	  left:-818px;
+	  top:148px;
+	  font-family:'Krub Bold';
+	  font-size: 20px;
+	  overflow: visible;
+		color: rgb(163, 163, 163);
+	}
+  
+  .cont1 .persons .person3 .stars3{
+	  position:relative ;
+	  display: flex;
+	  flex-direction: row;
+	  justify-content: space-between;
+	  right: 952px;
+	  top:204px;
+	color: green;
+	}
+  
+	.cont1 .persons .person3 .stars3 i{
+		color: rgb(170, 132, 249);
+	  margin-right: 10px;
+	}
+  
+	.cont1 .persons .person3 .stars3 i2{
+		color: rgb(170, 132, 249);
+	  margin-right: 13px;
+	}
+  
+	.cont1 .persons .person3 .stars3 i1{
+		color: rgb(170, 132, 249);	
+	  margin-right: 13px;
+	}
+  
+	.cont1 .persons .person3 .stars3 i3{
+		color: rgb(163, 163, 163);
+		margin-right: 13px;
+	  }
+  
+  .cont1 .persons .person3 .kav3{
+	  position:relative ;
+	  left:-1175px;
+	  top:237px;
+		color: rgb(170, 132, 249);
+	}
+  
+
+	.cont1 .persons .person3 .kav3_1{
+		position:relative ;
+		right: 1242px;
+		top:330px;
+		  color: rgb(170, 132, 249);
+	  }
+
+  .cont1 .persons .person3 .text3_1{
+	  position:relative ;
+	  right:1160px;
+	  top:231px;
+	  width: 300px;
+	  font-family:'Krub Semibold';
+	  font-size: 14px;
+		color: rgb(163, 163, 163);
+	}
+	
+  .cont1 .persons .person3 .text3_1 span{
+	  margin-bottom: 20px;
+  }
+
+  .cont1 .persons .person3 .image3{
+	position: relative;
+	left:-660px;
+	bottom: 46px;
+	border-radius: 100px; /* Радиус скругления */
+    border: 3px solid rgb(170, 132, 249); /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+	}	
+
+.cont1 .arrow1{
+	position: relative;
+	top:173px;
+	left:296px;
+}
+
+.cont1 .arrow2{
+	position: relative;
+	top:157px;
+	left:393px;
+}

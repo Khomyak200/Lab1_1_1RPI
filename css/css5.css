@@ -1,0 +1,53 @@
+#fifthpage {
+    height: 962px;
+    background-color: rgba(24, 24, 24, 1);;
+}
+
+.image-container {
+    position: relative;
+}
+
+.images img {
+    position: absolute;
+}
+
+.righttext {
+    position: absolute;
+    padding: 205px 880px;
+    font-family: 'Krub', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    white-space: normal;
+    text-align: justify;
+    line-height: 1.6;
+    color: #F2F2F2;
+    overflow: auto;
+    white-space: normal;
+}
+
+.whyus{
+    white-space: nowrap;
+    font-size: 60px;
+}
+
+.txt{
+    padding-top: 15px;
+    width: 400px;
+}
+
+.btn{
+    padding-top:45px;
+}
+
+.purple-button {
+    background-color: #AA84F9;
+    color: white;
+    padding: 12px 22px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
