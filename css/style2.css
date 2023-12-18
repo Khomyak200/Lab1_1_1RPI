@@ -87,8 +87,8 @@
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
-	left: -253px;
-	top:203px;
+	left: -280px;
+	top:208px;
 }
 
   .cont1 .persons .person1 .stars1 i{
@@ -145,8 +145,8 @@
   
   .cont1 .persons .person2 .text2{
 	  position:relative ;
-	  left:-571px;
-	  top:148px;
+	  left:-618px;
+	  top:128px;
 	  font-family:'Krub Bold';
 	  font-size: 20px;
 	  overflow: visible;
@@ -158,8 +158,8 @@
 	  display: flex;
 	  flex-direction: row;
 	  justify-content: space-between;
-	  left: -594px;
-	  top:204px;
+	  left: -880px;
+	  top:210px;
 	}
   
 	.cont1 .persons .person2 .stars2 i{
@@ -212,7 +212,7 @@
 
   .cont1 .persons .person2 .image2{
 	position: relative;
-	left:-307px;
+	left:-340px;
 	bottom:50px;
 	border-radius: 100px; /* Радиус скругления */
     border: 3px solid rgb(170, 132, 249); /* Параметры рамки */
@@ -238,8 +238,8 @@
 	  display: flex;
 	  flex-direction: row;
 	  justify-content: space-between;
-	  right: 952px;
-	  top:204px;
+	  right: 1252px;
+	  top:210px;
 	color: green;
 	}
   
@@ -280,8 +280,8 @@
 
   .cont1 .persons .person3 .text3_1{
 	  position:relative ;
-	  right:1160px;
-	  top:231px;
+	  right:1460px;
+	  top:251px;
 	  width: 300px;
 	  font-family:'Krub Semibold';
 	  font-size: 14px;
@@ -294,7 +294,7 @@
 
   .cont1 .persons .person3 .image3{
 	position: relative;
-	left:-660px;
+	left:-955px;
 	bottom: 46px;
 	border-radius: 100px; /* Радиус скругления */
     border: 3px solid rgb(170, 132, 249); /* Параметры рамки */
