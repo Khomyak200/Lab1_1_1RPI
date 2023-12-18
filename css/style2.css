@@ -1,18 +1,18 @@
 .container{
-	background:rgb(17, 17, 17);
+	background:red;
 }
 
 .cont1{
 	flex-direction: column;
 	display: flex;
 	margin-left: 0px;
-	background: rgb(17, 17, 17);
+	background: red;
 	width: 1440px;
 	height: 760px;
 }
 
 .cont1 .persons {
-	background:rgb(17, 17, 17);
+	background:red;
 	width: 1148.219px;
 		top:100px;
 		display: flex;
